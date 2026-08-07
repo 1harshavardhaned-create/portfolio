@@ -962,39 +962,39 @@ a.notion-link:hover {
     }
 
     .mac-window {
-        margin-top: 14px;
-        border-radius: 10px;
+        margin-top: 18px;
+        border-radius: 12px;
     }
 
     /* Finder Body (Inside the portfolio folder on phones) */
     .mac-body {
-        padding: 24px 14px;
-        gap: 16px 20px;
+        padding: 30px 16px;
+        gap: 20px 24px;
         flex-wrap: wrap;
-        justify-content: center;
-        min-height: 175px;
+        justify-content: space-around;
+        min-height: 200px;
         box-sizing: border-box;
     }
 
     .mac-file {
-        width: 96px;
-        padding: 10px 6px;
-        gap: 10px;
-        border-radius: 8px;
+        width: 106px;
+        padding: 12px 6px;
+        gap: 12px;
+        border-radius: 10px;
     }
 
-    /* Larger, clearer file logos inside the folder on phones */
+    /* Significantly larger, punchier file logos inside the folder on phones */
     .mac-file-icon {
-        width: 58px;
-        height: 58px;
+        width: 68px;
+        height: 68px;
     }
 
-    /* Clearer text inside the folder on phones */
+    /* Larger, bold, ultra-readable text inside the folder on phones */
     .mac-file-text {
-        font-size: 12.5px;
+        font-size: 13.5px;
         font-weight: 500;
-        padding: 2px 6px;
-        line-height: 1.2;
+        padding: 3px 6px;
+        line-height: 1.25;
     }
 
     .mac-title {
